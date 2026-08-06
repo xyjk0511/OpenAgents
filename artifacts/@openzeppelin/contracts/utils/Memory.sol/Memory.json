@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Memory",
+  "sourceName": "@openzeppelin/contracts/utils/Memory.sol",
+  "abi": [],
+  "bytecode": "0x6080806040523460175760399081601c823930815050f35b5f80fdfe5f80fdfea2646970667358221220be040862bcf5f4ec8e6403f4335557f9f0514b6f2d24b8159a9a3ad6271ce06464736f6c634300081a0033",
+  "deployedBytecode": "0x5f80fdfea2646970667358221220be040862bcf5f4ec8e6403f4335557f9f0514b6f2d24b8159a9a3ad6271ce06464736f6c634300081a0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
